@@ -1,16 +1,14 @@
-### Hi there 👋
+### Merhaba ben Neşet Can SALIK :wave:,
 
-<!--
-**Cansalik/cansalik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Manisa Celal Bayar Üniversitesi 3.Sınıf Öğrencisiyim;
 
-Here are some ideas to get you started:
+Programlama dili olarak C# Kullanıyorum,
+Front-end teknolojilerinden --> HTML - CSS - Bootstrap,
+Back-end teknolojilerinden  --> ASP.NET ve MSSQL alanında kendimi geliştirmekteyim.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Öğrenmeye açık biri olarak gelişen teknolojileri yakından takip ediyor ve bundan keyif alıyorum.
+
+Şuan aktif olarak ASP.NET ve MVC alanında çalışmalar yapmaktayım.
+
+
+[![linkedin](https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/neset-can-sal%C4%B1k-b23a9a177/)
