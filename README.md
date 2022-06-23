@@ -2,13 +2,19 @@
 
 Manisa Celal Bayar Üniversitesi 3.Sınıf Öğrencisiyim;
 
-Programlama dili olarak C# Kullanıyorum,
-Front-end teknolojilerinden --> HTML - CSS - Bootstrap,
-Back-end teknolojilerinden  --> ASP.NET ve MSSQL alanında kendimi geliştirmekteyim.
+:heavy_check_mark:	 Programlama dili olarak C# Kullanıyorum,  
+:keyboard: Front-end teknolojilerinden --> HTML - CSS - Bootstrap,  
+:keyboard: Back-end teknolojilerinden  --> ASP.NET ve MSSQL alanında kendimi geliştirmeye devam ediyorum.
 
-Öğrenmeye açık biri olarak gelişen teknolojileri yakından takip ediyor ve bundan keyif alıyorum.
+:clipboard: Öğrenmeye açık biri olarak gelişen teknolojileri yakından takip ediyor ve bundan keyif alıyorum.
 
-Şuan aktif olarak ASP.NET ve MVC alanında çalışmalar yapmaktayım.
+:hourglass_flowing_sand: Şuan aktif olarak ASP.NET ve MVC alanında çalışmalar yapmaktayım.
 
+  
+  
+  
+  
+  
+          
 
-[![linkedin](https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/neset-can-sal%C4%B1k-b23a9a177/)
+[![linkedin](https://img.shields.io/badge/Linkedin-2F95C2?style=for-the-badge&logo=Linkedin&logoColor=linkedin)](https://www.linkedin.com/in/neset-can-sal%C4%B1k-b23a9a177/)[![twitter](https://img.shields.io/badge/twitter-ffffff?style=for-the-badge&logo=twitter&logoColor=twitter)](https://twitter.com/Cansalik21) [![instagram](https://img.shields.io/badge/instagram-ffffff?style=for-the-badge&logo=instagram&logoColor=instagram)](https://www.instagram.com/cansalik.21/)
