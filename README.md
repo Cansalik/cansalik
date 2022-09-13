@@ -8,7 +8,7 @@ Manisa Celal Bayar Üniversitesi 3.Sınıf Öğrencisiyim;
 
 :clipboard: Öğrenmeye açık biri olarak gelişen teknolojileri yakından takip ediyor ve bundan keyif alıyorum.
 
-:hourglass_flowing_sand: Şuan aktif olarak ASP.NET ve MVC alanında çalışmalar yapmaktayım.
+:hourglass_flowing_sand: Şuan aktif olarak ASP.NET, MVC ve Mobil Programlama alanında çalışmalar yapmaktayım.
 
 &nbsp;&nbsp;
 
