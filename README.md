@@ -3,7 +3,7 @@
 Manisa Celal Bayar Üniversitesi 3.Sınıf Öğrencisiyim;
 
 :heavy_check_mark:	 Programlama dili olarak C# Kullanıyorum ve  
-:keyboard: Front-end teknolojilerinden --> HTML - CSS - Bootstrap,  
+:keyboard: Front-end teknolojilerinden --> HTML - CSS - Bootstrap(JQuery),  
 :keyboard: Back-end teknolojilerinden  --> ASP.NET ve MSSQL alanında kendimi geliştirmeye devam ediyorum.
 
 :clipboard: Öğrenmeye açık biri olarak gelişen teknolojileri yakından takip ediyor ve bundan keyif alıyorum.
