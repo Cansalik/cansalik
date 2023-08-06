@@ -1,6 +1,6 @@
 ### Merhaba ben Neşet Can SALIK :wave:,
 
-Manisa Celal Bayar Üniversitesi 3.Sınıf Öğrencisiyim;
+Manisa Celal Bayar Üniversitesi 4.Sınıf Öğrencisiyim;
 
 :heavy_check_mark:	 Programlama dili olarak C#, Dart Kullanıyorum ve  
 :keyboard: Front-end teknolojilerinden --> HTML - CSS - Bootstrap(JQuery),  
